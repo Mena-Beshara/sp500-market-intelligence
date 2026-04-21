@@ -1,0 +1,19 @@
+name: sp500-intel
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - matplotlib
+  - seaborn
+  - jupyter
+  - notebook
+  - statsmodels
+  - scikit-learn
+  - plotly
+  - pip
+  - pip:
+    - yfinance
+    - prophet
+    - streamlit
