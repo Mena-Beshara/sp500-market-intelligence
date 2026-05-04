@@ -4,7 +4,7 @@ A dual-angle financial data science project combining price forecasting with mar
 
 ## Tech Stack
 
-**Data & EDA:** yfinance, pandas, matplotlib, seaborn  
+**Data & EDA:** yfinance, pandas, matplotlib, seaborn, holidays
 **Classical models:** statsmodels, pmdarima, prophet  
 **Deep learning:** TensorFlow/Keras, scikit-learn  
 **Anomaly detection:** Isolation Forest, Autoencoder  
